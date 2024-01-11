@@ -1,0 +1,43 @@
+@media (max-width: 540px) {
+    /* header */
+    .banner {
+        padding: 2rem 1rem;
+    }
+    .banner-content {
+        padding: .8rem;
+    }
+
+    .banner-content h1 {
+        font-size: 2rem;
+    }
+    
+    .banner-content p {
+        font-size: 1rem;
+    }
+    
+    .banner-content button {
+        padding: 1rem 2rem;
+        font-size: 1rem;
+    }
+
+    /* main */
+    .course-content {
+        width: 80%;
+    }
+
+    .modules-list .module {
+        padding: 1rem 3rem;
+    }
+
+    #professional-challenges .prosessional-challenges-content {
+        width: 100%;
+    }
+    
+    #professional-challenges h2 {
+        font-size: 1rem;
+    }
+    
+    #professional-challenges img {
+        width: 100%;
+    }
+ }
